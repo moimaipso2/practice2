@@ -15,6 +15,7 @@ public class Test1 {
 		System.out.println("★");
 		System.out.println("spr1");
 		System.out.println("spr2");
+		System.out.println("spr3");
 	}
 
 }
